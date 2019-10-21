@@ -20,7 +20,7 @@ public class RandomNumbers {
              else {
                 System.out.println(" ");
             }
-            System.out.println(arr[i]);
+
         }
     }
 }
