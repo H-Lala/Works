@@ -8,10 +8,10 @@ public class RandomNumbers {
             arr[i] = R.nextInt(10);
         }
         for (int i = 0; i <length ; i++) {
-            if(arr[i]%2==0){
+            if(arr[i]%2==0 && arr[i]%3!=0){
                 System.out.println("fizz");
             }
-              if (arr[i]%3==0){
+              if (arr[i]%3==0 && arr[i]%2!=0){
                 System.out.println("buzz");
             }
              if(arr[i]%2==0 && arr[i]%3==0){
