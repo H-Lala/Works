@@ -11,16 +11,16 @@ public class RandomNumbers {
             if(arr[i]%2==0){
                 System.out.println("fizz");
             }
-             else if (arr[i]%3==0){
+              if (arr[i]%3==0){
                 System.out.println("buzz");
             }
-             else if(arr[i]%2==0 && arr[i]%3==0){
+             if(arr[i]%2==0 && arr[i]%3==0){
                 System.out.println("fizzbuzz");
             }
              else {
                 System.out.println(" ");
             }
-
+            System.out.println(arr[i]);
         }
     }
 }
