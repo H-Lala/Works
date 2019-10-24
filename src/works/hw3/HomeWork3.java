@@ -1,3 +1,5 @@
+package works.hw3;
+
 import java.util.Scanner;
 import  java.lang.String;
 public class HomeWork3 {

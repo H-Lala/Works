@@ -1,3 +1,5 @@
+package works.hw2;
+
 import java.util.Scanner;
 import java.util.Random;
 public class HomeWork2 {
