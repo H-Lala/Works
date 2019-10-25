@@ -1,3 +1,5 @@
+package classwork.taskclass;
+
 import java.util.Random;
 public class RandomNumbers {
     public static void main(String[] args) {

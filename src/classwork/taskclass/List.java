@@ -1,3 +1,5 @@
+package classwork.taskclass;
+
 import java.util.ArrayList;
 import java.util.Random;
 
