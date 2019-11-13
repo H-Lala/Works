@@ -3,7 +3,7 @@ package classwork.taskclass;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class List {
+public class List<I extends Number> {
     public static void main(String[] args) {
         Random R = new Random();
        ArrayList <Integer> arr = new ArrayList<Integer>();
