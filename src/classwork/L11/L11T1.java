@@ -1,4 +1,4 @@
-package classwork.L11T1;
+package classwork.L11;
 
 public class L11T1 {
     public static void main(String[] args) {

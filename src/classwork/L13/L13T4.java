@@ -1,9 +1,6 @@
-package classwork.L13T1;
-
-import classwork.taskclass.List;
+package classwork.L13;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class L13T4 {
     public static ArrayList<Integer> gen_prime(int count) {

@@ -1,4 +1,4 @@
-package classwork.L12T;
+package classwork.L12;
 
 public class Solution {
 
